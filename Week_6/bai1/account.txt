@@ -1,0 +1,5 @@
+admin 123456 1
+user1 pass1 0
+user2 pass2 0
+quydx secret2023 1
+student 20235818 1
