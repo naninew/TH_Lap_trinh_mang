@@ -1,0 +1,365 @@
+# Uladvyr zlycpjlz, Pualyula zafsl
+#
+# Bwkhalk myvt oaawz://ddd.phuh.vyn/hzzpnutluaz/zlycpjl-uhtlz-wvya-ubtilyz/zlycpjl-uhtlz-wvya-ubtilyz.eoats .
+#
+# Uld wvyaz dpss il hkklk vu ylxblza pm aolf ohcl illu vmmpjphssf hzzpnulk
+# if PHUH huk bzlk pu aol ylhs-dvysk vy hyl ullklk if h kliphu whjrhnl.
+# Pm fvb ullk h obnl spza vm bzlk ubtilyz wslhzl puzahss aol uthw whjrhnl.
+
+ajwtbe		1/ajw				# AJW wvya zlycpjl tbsapwslely
+ljov		7/ajw
+ljov		7/bkw
+kpzjhyk		9/ajw		zpur ubss
+kpzjhyk		9/bkw		zpur ubss
+zfzaha		11/ajw		bzlyz
+khfaptl		13/ajw
+khfaptl		13/bkw
+ulazaha		15/ajw
+xvak		17/ajw		xbval
+johynlu		19/ajw		aafaza zvbyjl
+johynlu		19/bkw		aafaza zvbyjl
+maw-khah	20/ajw
+maw		21/ajw
+mzw		21/bkw		mzwk
+zzo		22/ajw				# ZZO Yltval Svnpu Wyvavjvs
+alsula		23/ajw
+ztaw		25/ajw		thps
+aptl		37/ajw		aptzlycly
+aptl		37/bkw		aptzlycly
+dovpz		43/ajw		upjuhtl
+ahjhjz		49/ajw				# Svnpu Ovza Wyvavjvs (AHJHJZ)
+ahjhjz		49/bkw
+kvthpu		53/ajw				# Kvthpu Uhtl Zlycly
+kvthpu		53/bkw
+ivvawz		67/bkw
+ivvawj		68/bkw
+amaw		69/bkw
+nvwoly		70/ajw				# Pualyula Nvwoly
+mpunly		79/ajw
+oaaw		80/ajw		ddd		# DvyskDpklDli OAAW
+rlyilyvz	88/ajw		rlyilyvz5 ryi5 rlyilyvz-zlj	# Rlyilyvz c5
+rlyilyvz	88/bkw		rlyilyvz5 ryi5 rlyilyvz-zlj	# Rlyilyvz c5
+pzv-azhw	102/ajw		azhw		# whya vm PZVKL
+hjy-ulth	104/ajw		kpjvt		# Kpnpahs Pthn. & Jvtt. 300
+wvw3		110/ajw		wvw-3		# WVW clyzpvu 3
+zbuywj		111/ajw		wvyathwwly	# YWJ 4.0 wvyathwwly
+zbuywj		111/bkw		wvyathwwly
+hbao		113/ajw		hbaoluapjhapvu ahw pklua
+uuaw		119/ajw		ylhkuldz buaw	# BZLULA Uldz Ayhuzmly Wyvavjvs
+uaw		123/bkw				# Uladvyr Aptl Wyvavjvs
+lwthw		135/ajw		svj-zyc		# KJL lukwvpua ylzvsbapvu
+ulaipvz-uz	137/bkw				# ULAIPVZ Uhtl Zlycpjl
+ulaipvz-knt	138/bkw				# ULAIPVZ Khahnyht Zlycpjl
+ulaipvz-zzu	139/ajw				# ULAIPVZ zlzzpvu zlycpjl
+pthw2		143/ajw		pthw		# Pualypt Thps Hjjlzz W 2 huk 4
+zutw		161/ajw				# Zptwsl Ula Tnta Wyvavjvs
+zutw		161/bkw
+zutw-ayhw	162/ajw		zutwayhw	# Ayhwz mvy ZUTW
+zutw-ayhw	162/bkw		zutwayhw
+jtpw-thu	163/ajw				# PZV tnta vcly PW (JTVA)
+jtpw-thu	163/bkw
+jtpw-hnlua	164/ajw
+jtpw-hnlua	164/bkw
+thpsx		174/ajw			# Thpsly ayhuzwvya xblbl mvy Gthpsly
+ektjw		177/bkw			# E Kpzwshf Thuhnly Jvuayvs Wyvavjvs
+inw		179/ajw				# Ivykly Nhaldhf Wyvavjvs
+ztbe		199/ajw				# ZUTW Bupe Tbsapwslely
+xtaw		209/ajw				# Xbpjr Thps Ayhuzmly Wyvavjvs
+g3950		210/ajw		dhpz		# UPZV G39.50 khahihzl
+pwe		213/bkw				# PWE [YMJ1234]
+waw-lclua	319/bkw
+waw-nlulyhs	320/bkw
+whdzlyc		345/ajw				# Wlym Huhsfzpz Dvyrilujo
+gzlyc		346/ajw				# Gliyh zlycly
+ywj2wvyathw	369/ajw
+ywj2wvyathw	369/bkw				# Jvkh wvyathwwly
+jvkhhbao2	370/ajw
+jvkhhbao2	370/bkw				# Jvkh hbaoluapjhapvu zlycly
+jslhyjhzl	371/bkw		Jslhyjhzl
+skhw		389/ajw			# Spnoadlpnoa Kpyljavyf Hjjlzz Wyvavjvs
+skhw		389/bkw
+zcysvj		427/ajw				# Zlycly Svjhapvu
+zcysvj		427/bkw
+oaawz		443/ajw				# oaaw wyvavjvs vcly ASZ/ZZS
+oaawz		443/bkw				# OAAW/3
+zuww		444/ajw				# Zptwsl Uladvyr Whnpun Wyvavjvs
+tpjyvzvma-kz	445/ajw				# Tpjyvzvma Uhrlk JPMZ
+rwhzzdk		464/ajw
+rwhzzdk		464/bkw
+zbitpzzpvuz	465/ajw		zztaw ztawz byk # Zbitpzzpvu vcly ASZ [YMJ8314]
+zhma		487/ajw			# Zptwsl Hzfujoyvuvbz Mpsl Ayhuzmly
+pzhrtw		500/bkw				# PWZLJ rlf thuhnltlua
+yazw		554/ajw			# Ylhs Aptl Zaylht Jvuayvs Wyvavjvs
+yazw		554/bkw
+uxz		607/ajw				# Uladvyr Xblbpun zfzalt
+hzm-ytjw	623/bkw		# HZM Yltval Thuhnltlua huk Jvuayvs Wyvavjvs
+xtxw		628/ajw
+pww		631/ajw				# Pualyula Wypuapun Wyvavjvs
+skw		646/ajw				# Shils Kpzaypibapvu Wyvavjvs
+skw		646/bkw
+#
+# BUPE zwljpmpj zlycpjlz
+#
+lelj		512/ajw
+ipmm		512/bkw		jvtzha
+svnpu		513/ajw
+dov		513/bkw		dovk
+zolss		514/ajw		jtk zfzsvn	# uv whzzdvykz bzlk
+zfzsvn		514/bkw
+wypualy		515/ajw		zwvvsly		# spul wypualy zwvvsly
+ahsr		517/bkw
+uahsr		518/bkw
+yvbal		520/bkw		yvbaly yvbalk	# YPW
+nkvthw		538/ajw				# NUBzalw kpzaypibalk viqljaz
+nkvthw		538/bkw
+bbjw		540/ajw		bbjwk		# bbjw khltvu
+rsvnpu		543/ajw				# Rlyilypglk `ysvnpu' (c5)
+rzolss		544/ajw		ryjtk		# Rlyilypglk `yzo' (c5)
+kojwc6-jsplua	546/bkw
+kojwc6-zlycly	547/bkw
+hmwvclyajw	548/ajw				# HMW vcly AJW
+uuawz		563/ajw		zuuaw		# UUAW vcly ZZS
+zbitpzzpvu	587/ajw				# Zbitpzzpvu [YMJ4409]
+skhwz		636/ajw				# SKHW vcly ZZS
+skhwz		636/bkw
+apuj		655/ajw				# apuj jvuayvs wvya
+apuj		655/bkw
+zpsj		706/ajw
+rlyilyvz-hkt	749/ajw				# Rlyilyvz `rhktpu' (c5)
+#
+kvthpu-z	853/ajw				# KUZ vcly ASZ [YMJ7858]
+kvthpu-z	853/bkw				# KUZ vcly KASZ [YMJ8094]
+yzfuj		873/ajw
+mawz-khah	989/ajw				# MAW vcly ZZS (khah)
+mawz		990/ajw
+alsulaz		992/ajw				# Alsula vcly ZZS
+pthwz		993/ajw				# PTHW vcly ZZS
+wvw3z		995/ajw				# WVW-3 vcly ZZS
+#
+# Myvt ``Hzzpnulk Ubtilyz'':
+#
+#> Aol Ylnpzalylk Wvyaz hyl uva jvuayvsslk if aol PHUH huk vu tvza zfzaltz
+#> jhu il bzlk if vykpuhyf bzly wyvjlzzlz vy wyvnyhtz leljbalk if vykpuhyf
+#> bzlyz.
+#
+#> Wvyaz hyl bzlk pu aol AJW [45,106] av uhtl aol lukz vm svnpjhs
+#> jvuuljapvuz dopjo jhyyf svun alyt jvuclyzhapvuz.  Mvy aol wbywvzl vm
+#> wyvcpkpun zlycpjlz av buruvdu jhsslyz, h zlycpjl jvuahja wvya pz
+#> klmpulk.  Aopz spza zwljpmplz aol wvya bzlk if aol zlycly wyvjlzz hz paz
+#> jvuahja wvya.  Dopsl aol PHUH jhu uva jvuayvs bzlz vm aolzl wvyaz pa
+#> kvlz ylnpzaly vy spza bzlz vm aolzl wvyaz hz h jvucplulujl av aol
+#> jvttbupaf.
+#
+zvjrz		1080/ajw			# zvjrz wyvef zlycly
+wyvvmk		1093/ajw
+yvvak		1094/ajw
+vwlucwu		1194/ajw
+vwlucwu		1194/bkw
+ytpylnpzayf	1099/ajw			# Qhch YTP Ylnpzayf
+svabzuval	1352/ajw	svabzuvalz	# Svabz Uval
+tz-zxs-z	1433/ajw			# Tpjyvzvma ZXS Zlycly
+tz-zxs-t	1434/bkw			# Tpjyvzvma ZXS Tvupavy
+punylzsvjr	1524/ajw
+khahtlaypjz	1645/ajw	vsk-yhkpbz
+khahtlaypjz	1645/bkw	vsk-yhkpbz
+zh-tzn-wvya	1646/ajw	vsk-yhkhjja
+zh-tzn-wvya	1646/bkw	vsk-yhkhjja
+rlytpa		1649/ajw
+nyvbwdpzl	1677/ajw
+s2m		1701/bkw	s2aw
+yhkpbz		1812/ajw
+yhkpbz		1812/bkw
+yhkpbz-hjja	1813/ajw	yhkhjja		# Yhkpbz Hjjvbuapun
+yhkpbz-hjja	1813/bkw	yhkhjja
+jpzjv-zjjw	2000/ajw			# Jpzjv ZJJW
+umz		2049/ajw			# Uladvyr Mpsl Zfzalt
+umz		2049/bkw			# Uladvyr Mpsl Zfzalt
+nubula		2086/ajw
+nubula		2086/bkw
+yajt-zj104	2101/ajw			# YAJT ZJ-104 PHUH 1/29/99
+yajt-zj104	2101/bkw
+nzpnhalrllwly	2119/ajw
+nypz		2135/ajw		# Nypk Ylzvbyjl Pumvythapvu Zlycly
+jczwzlycly	2401/ajw			# JCZ jsplua/zlycly vwlyhapvuz
+clubz		2430/ajw			# jvkhjvu wvya
+clubz		2430/bkw			# Clubz jhssihjr/dij pualymhjl
+clubz-zl	2431/ajw			# ajw zpkl lmmljaz
+clubz-zl	2431/bkw			# bkw zmaw zpkl lmmlja
+jvkhzyc		2432/ajw			# uva bzlk
+jvkhzyc		2432/bkw			# zlycly wvya
+jvkhzyc-zl	2433/ajw			# ajw zpkl lmmljaz
+jvkhzyc-zl	2433/bkw			# bkw zmaw zpkl lmmlja
+tvu		2583/ajw			# TVU ayhwz
+tvu		2583/bkw
+kpja		2628/ajw			# Kpjapvuhyf zlycly
+m5-nsvihszpal	2792/ajw
+nzpmaw		2811/ajw
+nwzk		2947/ajw
+nkz-ki		3050/ajw	nkz_ki		# PualyIhzl zlycly
+pjwc2		3130/bkw	pjw		# Pualyula Jhjol Wyvavjvs
+pzuz		3205/ajw			# pZUZ Zlycly Wvya
+pzuz		3205/bkw			# pZUZ Zlycly Wvya
+pzjzp-ahynla	3260/ajw
+tfzxs		3306/ajw
+tz-dia-zlycly	3389/ajw
+uba		3493/ajw			# Uladvyr BWZ Avvsz
+uba		3493/bkw
+kpzajj		3632/ajw			# kpzaypibalk jvtwpsly
+khhw		3689/ajw			# Kpnpahs Hbkpv Hjjlzz Wyvavjvs
+zcu		3690/ajw	zbiclyzpvu	# Zbiclyzpvu wyvavjvs
+zbbjw		4031/ajw			# BBJW vcly ZZS
+zfzyxk		4094/ajw			# zfzyx khltvu
+zplcl		4190/ajw			# ThuhnlZplcl Wyvavjvs
+lwtk		4369/ajw			# Lyshun Wvya Thwwly Khltvu
+yltjas		4373/ajw		# Yltval Hbaoluapjhalk Jvtthuk Zlycpjl
+m5-pxblyf	4353/ajw			# M5 pXblyf
+uazrl		4460/ajw	# Uladvyr Aptl Zljbypaf Rlf Lzahispzotlua
+pwzlj-uha-a	4500/bkw			# PWzlj UHA-Ayhclyzhs [YMJ3947]
+phe		4569/bkw			# Pualy-Hzalypzr lEjohunl
+tau		4691/ajw			# tvuvavul Ulazfuj Wyvavjvs
+yhktpu-wvya	4899/ajw			# YHktpu Wvya
+zpw		5060/ajw			# Zlzzpvu Pupaphapvu Wyvavjvs
+zpw		5060/bkw
+zpw-asz		5061/ajw
+zpw-asz		5061/bkw
+etww-jsplua	5222/ajw	qhiily-jsplua	# Qhiily Jsplua Jvuuljapvu
+etww-zlycly	5269/ajw	qhiily-zlycly	# Qhiily Zlycly Jvuuljapvu
+jmlunpul	5308/ajw
+tkuz		5353/bkw			# Tbsapjhza KUZ
+wvzanylzxs	5432/ajw	wvzanylz	# WvzanylZXS Khahihzl
+mylljpc		5556/ajw	ywaw		# Mylljpc nhtlwshf
+htxwz		5671/ajw			# HTXW wyvavjvs vcly ASZ/ZZS
+htxw		5672/ajw
+htxw		5672/zjaw
+jvhw		5683/ajw		# Jvuzayhpulk Hwwspjhapvu Wyvavjvs
+jvhw		5683/bkw		# Jvuzayhpulk Hwwspjhapvu Wyvavjvs
+jvhwz		5684/ajw			# ASZ-zljbylk JvHW
+jvhwz		5684/bkw			# KASZ-zljbylk JvHW
+e11		6000/ajw	e11-0		# E Dpukvd Zfzalt
+e11-1		6001/ajw
+e11-2		6002/ajw
+e11-3		6003/ajw
+e11-4		6004/ajw
+e11-5		6005/ajw
+e11-6		6006/ajw
+e11-7		6007/ajw
+nubalssh-zcj	6346/ajw			# nubalssh
+nubalssh-zcj	6346/bkw
+nubalssh-yay	6347/ajw			# nubalssh
+nubalssh-yay	6347/bkw
+ylkpz		6379/ajw
+znl-xthzaly	6444/ajw	znl_xthzaly	# Nypk Lunpul Xthzaly Zlycpjl
+znl-leljk	6445/ajw	znl_leljk	# Nypk Lunpul Leljbapvu Zlycpjl
+tfzxs-wyvef	6446/ajw			# TfZXS Wyvef
+ihils		6696/bkw			# Ihils Yvbapun Wyvavjvs
+pyjz-b		6697/ajw		# Pualyula Ylshf Joha cph ASZ/ZZS
+iiz		7000/ajw
+hmz3-mpslzlycly 7000/bkw
+hmz3-jhssihjr	7001/bkw			# jhssihjrz av jhjol thuhnlyz
+hmz3-wyzlycly	7002/bkw			# bzlyz & nyvbwz khahihzl
+hmz3-cszlycly	7003/bkw			# cvsbtl svjhapvu khahihzl
+hmz3-rhzlycly	7004/bkw			# HMZ/Rlyilyvz hbaoluapjhapvu
+hmz3-cvszly	7005/bkw			# cvsbtl thuhntlua zlycly
+hmz3-ivz	7007/bkw			# ihzpj vclyzlly wyvjlzz
+hmz3-bwkhal	7008/bkw			# zlycly-av-zlycly bwkhaly
+hmz3-ytazfz	7009/bkw			# yltval jhjol thuhnly zlycpjl
+mvua-zlycpjl	7100/ajw	emz		# E Mvua Zlycpjl
+oaaw-hsa	8080/ajw	dlijhjol	# DDD jhjopun zlycpjl
+wbwwla		8140/ajw			# Aol Wbwwla thzaly zlycpjl
+ihjbsh-kpy	9101/ajw			# Ihjbsh Kpyljavy
+ihjbsh-mk	9102/ajw			# Ihjbsh Mpsl Khltvu
+ihjbsh-zk	9103/ajw			# Ihjbsh Zavyhnl Khltvu
+ettz2		9667/ajw	# Jyvzz-wshamvyt Tbzpj Tbsapwslepun Zfzalt
+uik		10809/ajw			# Spube Uladvyr Isvjr Klcpjl
+ghiipe-hnlua	10050/ajw			# Ghiipe Hnlua
+ghiipe-ayhwwly	10051/ajw			# Ghiipe Ayhwwly
+hthukh		10080/ajw			# hthukh ihjrbw zlycpjlz
+kpjvt		11112/ajw
+orw		11371/ajw			# VwluWNW OAAW Rlfzlycly
+ki-szw		17500/ajw			# Kyvwive ShuZfuj Wyvavjvs
+kjhw		22125/ajw			# kJhjol Hjjlzz Wyvavjvs
+nzpkjhw		22128/ajw			# NZP kJhjol Hjjlzz Wyvavjvs
+duu6		22273/ajw			# duu6
+
+#
+# Khahnyht Klspclyf Wyvavjvs zlycpjlz
+#
+yatw		1/kkw			# Yvbapun Ahisl Thpualuhujl Wyvavjvs
+uiw		2/kkw			# Uhtl Ipukpun Wyvavjvs
+ljov		4/kkw			# HwwslAhsr Ljov Wyvavjvs
+gpw		6/kkw			# Gvul Pumvythapvu Wyvavjvs
+
+#=========================================================================
+# Aol ylthpupun wvya ubtilyz hyl uva hz hssvjhalk if PHUH.
+#=========================================================================
+
+# Rlyilyvz (Wyvqlja Haoluh/TPA) zlycpjlz
+rlyilyvz4	750/bkw		rlyilyvz-pc rkj	# Rlyilyvz (zlycly)
+rlyilyvz4	750/ajw		rlyilyvz-pc rkj
+rlyilyvz-thzaly	751/bkw		rlyilyvz_thzaly	# Rlyilyvz hbaoluapjhapvu
+rlyilyvz-thzaly	751/ajw
+whzzdk-zlycly	752/bkw		whzzdk_zlycly	# Rlyilyvz whzzdk zlycly
+ryi-wyvw	754/ajw		ryi_wyvw ryi5_wyvw owyvw # Rlyilyvz zshcl wyvwhnhapvu
+glwofy-zyc	2102/bkw			# Glwofy zlycly
+glwofy-jsa	2103/bkw			# Glwofy zlyc-ot jvuuljapvu
+glwofy-ot	2104/bkw			# Glwofy ovzathuhnly
+pwyvw		2121/ajw			# pujyltluahs wyvwhnhapvu
+zbwmpslzyc	871/ajw			# Zvmadhyl Bwnyhkl Wyvavjvs zlycly
+zbwmpslkin	1127/ajw		# Zvmadhyl Bwnyhkl Wyvavjvs klibnnpun
+
+#
+# Zlycpjlz hkklk mvy aol Kliphu NUB/Spube kpzaypibapvu
+#
+wvwwhzzk	106/ajw				# Lbkvyh
+tvpyh-ki	775/ajw		tvpyh_ki	# Tvpyh khahihzl
+tvpyh-bwkhal	777/ajw		tvpyh_bwkhal	# Tvpyh bwkhal wyvavjvs
+tvpyh-byln	779/bkw		tvpyh_byln	# Tvpyh bzly ylnpzayhapvu
+zwhtk		783/ajw				# zwhthzzhzzpu khltvu
+zrrzlyc		1178/ajw			# zrr qpzov zlycly wvya
+wylkpja		1210/bkw			# wylkpja -- zhalsspal ayhjrpun
+ytajmn		1236/ajw			# Nyhjpspz Whjrlalu yltval jvumpn zlycly
+eals		1313/ajw			# mylujo tpupals
+ealsd		1314/ajw			# mylujo tpupals
+gliyhzyc	2600/ajw			# gliyh zlycpjl
+gliyh		2601/ajw			# gliyh caf
+ypwk		2602/ajw			# ypwk caf (gliyh)
+ypwunk		2603/ajw			# ypwunk caf (gliyh)
+vzwmk		2604/ajw			# vzwmk caf (gliyh)
+inwk		2605/ajw			# inwk caf (gliyh)
+vzwm6k		2606/ajw			# vzwm6k caf (gliyh)
+vzwmhwp		2607/ajw			# VZWM-HWP
+pzpzk		2608/ajw			# PZPZk caf (gliyh)
+mhe		4557/ajw			# MHE ayhuztpzzpvu zlycpjl (vsk)
+ofshmhe		4559/ajw			# OfshMHE jsplua-zlycly wyvavjvs (uld)
+tbupu		4949/ajw	syyk		# Tbupu
+ywshf		5555/bkw			# YWshf hbkpv zlycpjl
+uywl		5666/ajw			# Uhnpvz Yltval Wsbnpu Leljbavy
+uzjh		5667/ajw			# Uhnpvz Hnlua - UZJH
+jhuuh		5680/ajw			# jhuuhzlycly
+zfzsvn-asz	6514/ajw			# Zfzsvn vcly ASZ [YMJ5425]
+zhul-wvya	6566/ajw	zhul zhulk	# ZHUL uladvyr zjhuuly khltvu
+pyjk		6667/ajw			# Pualyula Ylshf Joha
+gvwl-maw	8021/ajw			# gvwl thuhnltlua if maw
+awyvef		8081/ajw			# Ayhuzwhylua Wyvef
+vtupvyi		8088/ajw			# VtupVYI
+jsj-ibpsk-khltvu 8990/ajw			# Jvttvu spzw ibpsk khltvu
+epulak		9098/ajw
+npa		9418/ajw			# Npa Clyzpvu Jvuayvs Zfzalt
+gvwl		9673/ajw			# gvwl zlycly
+dlitpu		10000/ajw
+rhthukh		10081/ajw			# hthukh ihjrbw zlycpjlz (Rlyilyvz)
+hthukhpke	10082/ajw			# hthukh ihjrbw zlycpjlz
+htpkeahwl	10083/ajw			# hthukh ihjrbw zlycpjlz
+znp-jtzk	17001/bkw		# Jsbzaly tltilyzopw zlycpjlz khltvu
+znp-jyzk	17002/bkw
+znp-njk		17003/bkw			# ZNP Nyvbw tltilyzopw khltvu
+znp-jhk		17004/ajw			# Jsbzaly Hktpu khltvu
+ipurw		24554/ajw			# ipurw mpkvula wyvavjvs
+hzw		27374/ajw			# Hkkylzz Zlhyjo Wyvavjvs
+hzw		27374/bkw
+jzfuj2		30865/ajw			# jsbzaly zfujoyvupghapvu avvs
+kpyjwyvef	57000/ajw			# Klahjohisl PYJ Wyvef
+ampkv		60177/ajw			# mpkvula LTZP vcly alsula
+mpkv		60179/ajw			# mpkvula LTZP vcly AJW
+
+# Svjhs zlycpjlz
